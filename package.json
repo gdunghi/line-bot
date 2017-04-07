@@ -1,8 +1,8 @@
 {
-  "name": "line_bot_v1",
+  "name": "line-bot",
   "main": "server.js",
   "scripts": {
-    "start": "NODE_ENV=development ./node_modules/.bin/nodemon server.js"
+    "start": "node server.js"
   },
   "version": "1.0.0",
   "author": "jirayu",
